@@ -23,7 +23,7 @@ Other: Axios (for API calls), bcryptjs (for password hashing), JWT (for authenti
 ![chat_app](https://github.com/user-attachments/assets/1de22a43-6de2-4957-abe0-4fcf5c76db57)
 ![chat_A](https://github.com/user-attachments/assets/10bdff89-8dc9-4dfe-92a1-e824538fe055)
 
-##Now install the dependencies
+Now install the dependencies
 
 cd server
 
